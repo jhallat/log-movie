@@ -2,4 +2,4 @@
 
 work in progress
 
-![Early Log Rendering](log_001.png)
+![Early Log Rendering](log_002.png)
